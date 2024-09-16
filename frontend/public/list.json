@@ -1,0 +1,83 @@
+[
+
+    {
+"id":1,
+"name":"Web Technology Book",
+"title":"AAAAAAAAAA",
+"price":0,
+"category":"Free",
+"image":""},
+
+{
+    "id":2,
+    "name":"Software Engineering",
+    "title":"AAAAAAAAAA",
+    "price":200,
+    "category":"Paid",
+    "image":"../../public.image3.jpg"},
+    {
+        "id":3,
+        "name":"Computer Network",
+        "title":"AAAAAAAAAA",
+        "price":250,
+        "category":"Paid",
+        "image":"../../public.image2.jpg"},
+        {
+            "id":4,
+            "name":"Maths 4",
+            "title":"AAAAAAAAAA",
+            "price":0,
+            "category":"Free",
+            "image":"../../public.image3.jpg"},
+            {
+                "id":5,
+                "name":"Big Data",
+                "title":"AAAAAAAAAA",
+                "price":280,
+                "category":"Paid",
+                "image":"../../public.image3.jpg"},
+                {
+                    "id":6,
+                    "name":"Machine Learning",
+                    "title":"AAAAAAAAAA",
+                    "price":240,
+                    "category":"Paid",
+                    "image":"../../public.image3.jpg"},
+                    {
+                        "id":7,
+                        "name":"Computer System Security",
+                        "title":"AAAAAAAAAA",
+                        "price":0,
+                        "category":"Free",
+                        "image":"../../public.image3.jpg"},
+                        {
+                            "id":8,
+                            "name":"Communication Skill",
+                            "title":"AAAAAAAAAA",
+                            "price":0,
+                            "category":"Free",
+                            "image":"../../public.image3.jpg"},
+                            {
+                                "id":9,
+                                "name":"Compiler Design",
+                                "title":"AAAAAAAAAA",
+                                "price":190,
+                                "category":"Paid",
+                                "image":"../../public.image3.jpg"},
+                                {
+                                    "id":10,
+                                    "name":"Database",
+                                    "title":"AAAAAAAAAA",
+                                    "price":0,
+                                    "category":"Free",
+                                    "image":"../../public.image3.jpg"},
+                                    {
+                                        "id":11,
+                                        "name":"operating System",
+                                        "title":"AAAAAAAAAA",
+                                        "price":300,
+                                        "category":"Paid",
+                                        "image":"../../public.image3.jpg"}
+        
+    
+    ]
